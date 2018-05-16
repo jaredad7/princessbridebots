@@ -1,0 +1,23 @@
+lines = {
+	"what is that":"It's fabric from the uniform of an Army officer of Guilder.",
+	"who's guilder":"The country across the sea. The sworn enemy of Florin.",
+	"what's your plot":"Once the horse reaches the castle, the fabric will make the Prince suspect the Guilderians have abducted his love. When he finds her body dead on the Guilder frontier, his suspicions will be totally confirmed.",
+	"you never said anything about killing anyone":"I've hired you to help me start a war. That's a prestigious line of work with a long and glorious tradition.",
+	"i just don't think":"Am I going mad or did the word \"think\" escape your lips? You were not hired for your brains, you hippopotamic land mass.",
+	"rhyme":"No more rhymes now, I mean it.",
+	"you're sure":"As I told you, it would be absolutely, totally, and in all other ways, inconceivable. No one in Guilder knows what we've done. And no one in Florin could have gotten here so fast. Out of curiosity, why do you ask?",
+	"let me explain":"There's nothing to explain. You're trying to kidnap what I've rightfully stolen.",
+	"impasse":"I'm afraid so -- I can't compete with you physically. And you're no match for my brains.",
+	"you're that smart":"Let me put it this way: have you ever heard of Plato, Aristotle, *Socrates?*\n\nMorons.",
+	"inhale":"I smell nothing.",
+	"where is the poison":"But it's so simple. All I have to do is divine from what I know of you. Are you the sort of man who would put the poison into his own goblet, or his enemy's?",
+	"you've made your decision":"Not remotely. Because iocane comes from Australia, as everyone knows. And Australia is entirely peopled with criminals. And criminals are used to having people not trust them, as you are not trusted by me. So I can clearly not choose the wine in front of you.",
+	"dizzying intellect":"Wait till I get going!\n\n...where was I?",
+	"australia":"Yes -- Australia, and you must have suspected I would have known the powder's origin, so I can clearly not choose the wine in front of me.",
+	"stalling":"You'd like to think that, wouldn't you? You've beaten my giant, which means you're exceptionally strong. So, you could have put the poison in your own goblet, trusting on your strength to save you. So I can clearly not choose the wine in front of you. But, you've also bested my Spaniard which means you must have studied. And in studying, you must have learned that man is mortal so you would have put the poison as far from yourself as possible, so I can clearly not choose the wine in front of me.",
+	"it won't work":"It has worked -- you've given everything away -- I know where the poison is.",
+	"make your choice":"I will. And I choose...\n\nWhat in the *world* can that be?",
+	"i don't see anything":"Oh, well, I-I could have sworn I saw something. No matter.\n\n*snicker*",
+	"what's so funny":"I'll tell you in a minute. First, let's drink -- me from my glass, and you from yours.",
+	"you guessed wrong":"Ahahaha. You only think I guessed wrong HAHAHAHA that's what's so funny!\n\nI switched glasses when your back was turned. You fool. HAHAHAHAH\n\n*thud*"
+}
