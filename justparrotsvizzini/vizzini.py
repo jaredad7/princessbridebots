@@ -12,7 +12,7 @@ reddit = praw.Reddit(user_agent='JustParrotsVizzini v0.1',
 subreddit = reddit.subreddit('princessbridebots')
 
 for comment in subreddit.stream.comments():
-	if comment.author != reddit.user.me():
+	if comment.author != reddit.user.me() and starttime <= comment.created_utc:
 		for key in lines.keys():
 			if key in comment.body.lower() and starttime <= comment.created_utc:
 				print("New comment found! Responding...")
